@@ -1,3 +1,3 @@
 # practice-demo
-first time using github
-developer-arman
+first time using github.
+Developer-arman
